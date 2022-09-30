@@ -1,4 +1,4 @@
-# Models in this file will represent Features in the applications user stories.
+# Models in this file will represent Features in the applications user stories..
 from datetime import date
 from enum import auto
 from tkinter import CASCADE
