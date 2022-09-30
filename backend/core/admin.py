@@ -6,4 +6,4 @@ admin.site.register(Log)
 admin.site.register(Comment)
 admin.site.register(Artwork)
 
-# Path: core/admin.py
+# Path: core/admin.py line 1
