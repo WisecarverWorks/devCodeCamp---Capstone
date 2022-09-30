@@ -7,7 +7,7 @@ from .models import *
 #     class Meta: 
 #         model = FullInformation
 #         fields = '__all__'
-
+# 
 class FeatureSerializer(serializers.ModelSerializer):
    class Meta:
     model = Feature
