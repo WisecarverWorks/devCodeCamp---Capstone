@@ -240,4 +240,4 @@ def update_artwork(request, pk):
 #     except User.DoesNotExist:
 #         return Response(status=status.HTTP_404_NOT_FOUND)
 
-# path = /core/views.py
+# path = /core/views.py line 1
