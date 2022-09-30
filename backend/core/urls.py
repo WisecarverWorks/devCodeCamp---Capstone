@@ -13,4 +13,4 @@ urlpatterns = [
     path('create-artwork/', views.create_artwork),
 ]
 
-# Path: core/serializers.py
+# Path: core/serializers.py 1
