@@ -1,0 +1,6 @@
+{
+  "powershell.codeFormatting.trimWhitespaceAroundPipe": true,
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true,
+  "diffEditor.ignoreTrimWhitespace": false
+}
